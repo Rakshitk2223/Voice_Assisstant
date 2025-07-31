@@ -1,0 +1,7 @@
+pyautogui
+numpy
+pyttsx3
+SpeechRecognition
+wikipedia
+selenium
+pycricbuzz
